@@ -41,7 +41,12 @@ sub banner {
  ╔•━━━ ≛ ─••⁜••─ ≛ ━━━•╗ 
 🌐      BeelZebuuuuu       🌐
  ╚•━━━ ≛ ─••⁜••─ ≛ ━━━•╝
- DoS-AtacK es una herramienta que realiza ataques de denegación de servicio bajo el método SYN Flood que permite configurar el ataque en detalle entre la duración del ataque, el intervalo de envío, el tamaño de los paquetes y el ancho de banda a utilizar .
+DoS-AtacK es una herramienta que realiza
+ataques de denegación de servicio bajo el 
+método SYN Flood que permite configurar
+el ataque en detalle entre la duración del ataque, 
+el intervalo de envío, 
+el tamaño de los paquetes y el ancho de banda a utilizar .
 EOL
 }
 
