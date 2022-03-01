@@ -19,7 +19,7 @@ our $delay= 0;
 sub banner {
 	print BOLD YELLOW <<'EOL';
  ╔•━━━ ≛ ─••⁜••─ ≛ ━━━•╗ 
-🌐. UNIVERSE HACKER. 🌐
+🌐     DoS Attack       🌐
  ╚•━━━ ≛ ─••⁜••─ ≛ ━━━•╝
 ░░░░░▀▄░▄▀░░░░░
 ░░░◢███████◣░░░
@@ -64,7 +64,7 @@ my ($ip) = @ARGV;
 if ($help || !$ip) {
 	banner(); print RESET <<'EOL';
 
-[USAGE]─➤ DoS-AtacK --port=dst-port --size=pkt-size --time=secs
+[USAGE]─➤ DoS-AttacK --port=dst-port --size=pkt-size --time=secs
          --bandwidth=kbps --delay=msec ip-address
 
 Defaults:
