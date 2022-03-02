@@ -2,6 +2,7 @@
 
         Denail of Service Attack (DoS-AttacK)
 
+![DoS-Attack running](https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2019/06/istock-959827096.jpg)
 A distributed denial-of-service (DDoS) attack is an attack in which multiple compromised computer systems attack a target, such as a server, website or other network resource, and cause a denial of service for users of the targeted resource. The flood of incoming messages, connection requests or malformed packets to the target system forces it to slow down or even crash and shut down, thereby denying service to legitimate users or systems.
 
 # INSTALLATION
